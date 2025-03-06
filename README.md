@@ -1,29 +1,23 @@
 # Cloned
 
-Repo para aplicaciones y webs clonadas hechas con HTML y CSS o SASS.
-
-## Guía rápida
-
-Cada rama del repositorio es una app o web clonada. Puedes usar la rama master para iniciar un proyecto propio o empezar a utilizar SCSS de manera rápida y simple.
-
-Video explicación de instalación:  
+Repository para aplicaciones hechas con HTML y CSS o SASS.  
 
 ### Pre requisitos
 
 - Git
 - Node js
-- Algún editor de código
+- Algún editor de código(Ex. Visual Code)
 
 ### Instalación
 
-Ejecutar comando "install" para instalar las dependencias globales (Solo la primera vez)
+Ubicarse dentro del proyecto y ejecutar comando "install" para instalar las dependencias (Solo la primera vez)
 
     npm install
 
-Ejecutar comando "scss" para correr el compilador de SASS y el comando "server" para iniciar el servidor local (En una terminal diferente cada uno).
+Ejecutar comando "scss" para correr el compilador de SASS 
 
     npm run scss
 
-<!--  -->
+<!-- y el comando "server" para iniciar el servidor local (En una terminal diferente cada uno). -->
 
     npm run server
